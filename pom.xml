@@ -22,7 +22,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub DE-SLAG Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/de-slag/slag-common</url>
+			<url>https://maven.pkg.github.com/de-slag/alphavantage4j</url>
 		</repository>
 	</distributionManagement>
 
